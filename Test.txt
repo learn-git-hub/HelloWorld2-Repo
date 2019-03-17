@@ -1,1 +1,2 @@
 Test for creating the repo using git init
+added the new line here after creating the git
